@@ -9,7 +9,7 @@
   "repository": "https://github.com/sbauch/opensea-discord-bot",
   "env": {
     "CONTRACT_ADDRESS": {
-      "description": "The address of your token contract"
+      "description": "The address of your token contract",
       "required": false
     },
     "COLLECTION_SLUG": {
